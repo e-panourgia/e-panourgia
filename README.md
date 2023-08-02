@@ -1,5 +1,5 @@
 ### Hi there, I am [Evangelia Panourgia](https://github.com/e-panourgia)! 👋
-### I am senior student of Management Science and Technology with direction in Software Engineering and Data Science. My research intrests include SE4DL. I am passion about projects related to data engineering and machine learning tasks. 
+### I am senior student of Management Science and Technology with direction in Software Engineering and Data Science. My research intrests include SE4DL. I am passion about projects related to data engineering and machine learning. 
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/evangelia-panourgia/) or 
 - Email:`eva.panourgiaa@gmail.com`
