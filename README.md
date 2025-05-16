@@ -9,7 +9,7 @@
 
 <h4 align="center">
   🔍 <strong>Focus Areas:</strong> Data Engineering · Data Science · SE4ML<br>
-  📊 <strong>Expertise:</strong> Data Pipelines, ETL, Empirical Software Research<br>
+  📊 <strong>Experience:</strong> Data Pipelines, ETL, Empirical Software Research<br>
 🧠 <strong>Interests:</strong> End-to-end Data Pipelines · Applied AI · Empirical Software Engineering
 
 </h4>
