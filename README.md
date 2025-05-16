@@ -2,7 +2,7 @@
 <h3 align="center">Evangelia Panourgia - Greece</h3>
 <h3 align="center">Graduate - BSc in Management Science & Technology</h3>
 <h3 align="center">MSc Student - Data Science @ AUEB</h3>
-<h3 align="center"><a href="https://www.dept.aueb.gr/en/dst"><img alt="Athens University of Economics and Business - Data Science" src="https://img.shields.io/badge/AUEB-data--science-1e90ff"></a></h3>
+<h3 align="center"><a href="https://www.dept.aueb.gr/en/dst"><img alt="Athens University of Economics and Business - Data Science" src="https://datascience.aueb.gr"></a></h3>
 <br>
 
 <h4 align="center">
