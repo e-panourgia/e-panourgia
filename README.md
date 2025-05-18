@@ -50,21 +50,3 @@
 
 <br>
 
-<h3 align="center">📈 GitHub Engineering Insights</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=e-panourgia&theme=monokai" alt="GitHub Summary Stats" width="600" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=e-panourgia&theme=monokai" alt="Contribution Stats" width="300" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=e-panourgia&theme=monokai" alt="Top Languages" width="300" />
-    </td>
-  </tr>
-</table>
-
