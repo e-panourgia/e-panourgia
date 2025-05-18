@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=9FAAAD&width=800&height=84&lines=Hi+there!+I'm+Evangelia+%F0%9F%91%8B;Welcome+to+my+GitHub+space!;Feel+free+to+explore+%F0%9F%8C%90" alt="Typing SVG" />
+  </a>
+</p>
+
 <h1 align="center">👩‍💻 Evangelia Panourgia</h1>
 <h3 align="center">Data Engineer | MSc Data Science @ AUEB | BSc Management Science & Technology</h3>
 
@@ -7,12 +13,8 @@
   </a>
 </p>
 
-<h4 align="center">
-  🔍 <strong>Focus Areas:</strong> Data Engineering · Data Science · SE4ML<br>
-  📊 <strong>Experience:</strong> Data Pipelines, ETL, Empirical Software Research<br>
-🧠 <strong>Interests:</strong> End-to-end Data Pipelines · Applied AI · Empirical Software Engineering
+<p align="center"><b>💡 Interests:</b> Data Engineering · Empirical Software Engineering · Applied AI</p>
 
-</h4>
 
 <br>
 
