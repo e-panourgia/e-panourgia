@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">👩‍💻 Evangelia Panourgia</h1>
-<h3 align="center">Data Engineer | MSc Data Science @ AUEB | BSc Management Science & Technology</h3>
+<h3 align="center">Data Engineer | MSc Data Science & BSc Management Science & Technology @ AUEB</h3>
 
 <p align="center">
   <a href="https://datascience.aueb.gr" target="_blank">
