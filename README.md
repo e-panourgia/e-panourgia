@@ -1,54 +1,5 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=9FAAAD&width=800&height=84&lines=Hi+there!+I'm+Evangelia+%F0%9F%91%8B;Welcome+to+my+GitHub+space!;Feel+free+to+explore+%F0%9F%8C%90" alt="Typing SVG" />
-  </a>
-</p>
-
-<h1 align="center">👩‍💻 Evangelia Panourgia</h1>
-<h3 align="center">Data Engineer | MSc Data Science & BSc Management Science & Technology @ AUEB</h3>
-
-<p align="center">
-  <a href="https://datascience.aueb.gr" target="_blank">
-    <img src="https://img.shields.io/badge/AUEB-MSc--in--Data--Science-1e90ff" alt="AUEB MSc Data Science" />
-  </a>
-</p>
-
-<p align="center"><b>💡 Interests:</b> Data Engineering · Empirical Software Engineering · Applied AI</p>
-
-
-<br>
-
-<h3 align="center">📨 Contact</h3>
-<p align="center">
-  <a href="mailto:Eva.panourgiaa@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/evangelia-panourgia/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" />
-  </a>
-</p>
-
-<br>
-
-<h3 align="center">⚙️ Tools & Technologies</h3>
-<p align="center">
-  <!-- Row 1 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
-  <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="GitHub" width="40" />
-</p>
-<p align="center">
-  <!-- Row 2 -->
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="Microsoft SQL Server / T-SQL" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" />
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" />
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" />
-</p>
-
-<br>
-
+- 👋 Hi, I’m @epanourgia
+- 💼 Data Engineer (Ex-Amazon, Ex-Accenture)
+- 🎓 MSc Data Science, AUEB
+- 🎓 Bsc Management Science and Technology, AUEB
+- 📫 How to reach me: eva.panourgiaa [at] gmail.com and https://www.linkedin.com/in/evangelia-panourgia/
