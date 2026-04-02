@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @epanourgia
-- 💼 Data Engineer (Ex-Amazon, Ex-Accenture)
+- 💼 ΒΙ/Data Engineer (Ex-Amazon, Ex-Accenture)
 - 🎓 MSc Data Science, AUEB
 - 🎓 Bsc Management Science and Technology, AUEB
 - 📫 How to reach me: eva.panourgiaa [at] gmail.com and https://www.linkedin.com/in/evangelia-panourgia/
