@@ -2,4 +2,4 @@
 - 💼 ΒΙ/Data Engineer (Ex-Amazon, Ex-Accenture)
 - 🎓 MSc Data Science, AUEB
 - 🎓 BSc Management Science and Technology, AUEB
-- 📫 How to reach me: eva.panourgiaa [at] gmail.com and https://www.linkedin.com/in/evangelia-panourgia/
+- 📫 How to reach me: https://www.linkedin.com/in/evangelia-panourgia/
